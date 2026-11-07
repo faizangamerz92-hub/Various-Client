@@ -1,7 +1,7 @@
 > [!CAUTION]
 > ### Please submit pull requests when contributing!
 
-# Flarial Launcher
+# Various Launcher
 
 The official launcher for Flarial Client.
 
@@ -10,6 +10,6 @@ The official launcher for Flarial Client.
   
 - If you want to install the launcher, please download the installer:
 
-  - Download: https://cdn.flarial.xyz/launcher/Flarial.Launcher.Installer.exe
+  - Download: 
   
-  - Repository: https://github.com/flarialmc/Flarial.Launcher.Installer
+  - Repository: 
